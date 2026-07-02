@@ -15,4 +15,4 @@ This project is a simple library management system built using Python and object
 
 ## How to run
 ```bash
-python main.py
+python3 main.py
