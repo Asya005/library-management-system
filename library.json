@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "isbn": "01",
+        "copies": 5
+    },
+    {
+        "title": "Romeo and Juliet",
+        "author": "William Shakespeare",
+        "isbn": "02",
+        "copies": 4
+    },
+    {
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "isbn": "03",
+        "copies": 6
+    }
+]
